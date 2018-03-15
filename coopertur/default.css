@@ -1,0 +1,303 @@
+
+/*
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+*/
+/*Corpo do site*/
+body {
+	margin: auto;
+	padding: auto;
+	font-family: 'Abel', sans-serif;
+	font-size: 15px;
+	color: #000000;
+	background: url(images/img02.jpg) repeat;
+}
+/*Tipo de formatação de letra*/
+h2{
+	
+	margin-top: 40px !important;
+    padding-top: 15px;
+    padding-right: 30px;
+    display: inline-block;
+	margin-bottom: 10px;
+	font-family: Times New Roman;
+	font-size: 15px
+	line-height: 1.1;
+    color: inherit;
+    background: url(http://minasbrasiltransportes.com/content/themes/minas-brasil/assets/img/border-title.png) top left no-repeat;
+	
+}
+
+p{
+	margin: 0;
+	letter-spacing: 1px;
+	line-height: normal;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: justify;
+	color: #000000;
+}
+
+strong {
+}
+
+a {
+	margin: 0;
+	letter-spacing: 1px;
+	line-height: normal;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #81AABE;
+	border-bottom: 1px dotted #9c5959;
+}
+
+.pikachoose a, #fancybox-close, .fancyimage {
+	border-bottom: 0px dotted #9c5959;
+}
+
+hr {
+	display: none;
+}
+
+/** WRAPPER */
+
+#wrapper {
+}
+
+.container {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+/* Header - Topo da página*/
+
+#header-wrapper {
+	overflow: hidden;
+
+}
+
+#header {
+	width: 1130px;
+	height: 20px;
+	background: url(images/img01.jpg) repeat;
+	margin:  -20px  auto;
+	padding: auto;
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 0px;
+	margin: 0px;
+	padding: 0px 0px -200px 0px;
+	padding: 0px;
+}
+
+/* Menu */
+
+ul#nav {
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	width: 700px;
+	margin-left: auto;
+	text-align: center;
+	overflow: hidden;
+	font-size: 15px;
+	letter-spacing: 1px;
+}
+ul#nav li {
+	float: left;
+	list-style: none;
+}
+ul#nav li a {
+	letter-spacing: 1px;
+	display: block;
+	width: 100px;
+	height: 85px;
+	padding: 70px 0 0 0;
+	margin: 0 0px 0 0px;
+	color: #000000;
+	text-decoration: none;
+	background: url(images/label.png) 0 -149px no-repeat;
+	-webkit-transition: all .20s ease-out;
+	-moz-transition: all .20s ease-out;
+	-o-transition: all .20s ease-out;
+	-ms-transition: all .20s ease-out;
+	transition: all .20s ease-out;
+	border-bottom: 0px dotted #9c5959;
+}
+ul#nav li a:hover, ul#nav li .current {
+	background: url(images/label.png) 0 -10px no-repeat;
+	color: #000000;
+	-webkit-transition: all .20s ease-out;
+	-moz-transition: all .20s ease-out;
+	-o-transition: all .20s ease-out;
+	-ms-transition: all .20s ease-out;
+	transition: all .20s ease-out;
+}
+
+/* Page */
+
+/*Texto de Missão, Valor e Visão*/
+#page-wrapper {
+	overflow: hidden;
+	height: 300px;
+	width: 1200px;
+	margin: -100px 40px;
+	/*background: url(images/img01.jpg) repeat;*/
+}
+
+#page {
+	overflow: hidden;
+	
+}
+
+
+/** CONTENT */
+
+#content {
+	float: left;
+	width: 300px;
+	padding: 0px 30px 30px 70px;
+	/*color: #FFFFFF;*/
+}
+
+
+#content h2 {
+	letter-spacing: -1px;
+	font-size: 36px;
+	/*color: #FFFFFF;*/
+}
+
+/** SIDEBAR */
+
+#sidebar {
+	float: right;
+	width: 260px;
+	padding: 20px 30px 20px 30px;
+	/*background: #056796;*/
+}
+
+#sidebar h2 {
+	padding: 0px 0px 30px 0px;
+	letter-spacing: -1px;
+	font-size: 2em;
+	/*color: #FFFFFF;*/
+}
+
+/* Footer - Rodapé da página */
+
+#footer {
+	height: 5px;
+	margin: 90px auto;
+	width: 1125px;
+	padding: 0px 0px 15px 0px;
+	font-family: 'Abel', sans-serif;
+	background: url(images/img01.jpg) repeat;
+}
+
+#footer p {
+	margin: 0;
+	letter-spacing: 1px;
+	line-height: normal;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #81AABE;
+}
+
+#footer a {
+	color: #81AABE;
+}
+
+
+#footer-content {
+	overflow: hidden;
+	width: 1000px;
+	margin: auto;
+	padding: 50px 0px 50px 0px;
+	color: #717171;
+}
+
+#footer-content a {
+}
+
+#footer-content h2 {
+	margin: 0px;
+	padding: 0px 0px 30px 0px;
+	letter-spacing: -1px;
+	font-size: 26px;
+	color: #262626;
+}
+
+#footer-content h2 span {
+	color: #C4303E;
+}
+
+
+/* Banner Style - Imagem no meio da página inicail */
+
+#banner-wrapper {
+	overflow: hidden;
+	height: 365px;
+	width: 1300px;
+	margin: 110px;
+	background: url(images/carros.jpg) no-repeat left center;*/
+	
+}
+
+#banner {
+	overflow: hidden;
+	
+	z-index: -1;
+}
+
+/* Button Style */
+
+.button-style {
+	display: inline-block;
+	margin-top: 100px;
+	padding: 30px 30px;
+	/*background: #AD1F35;*/
+}
+
+.button-style a {
+	letter-spacing: 1px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	/*color: #FFFFFF;*/
+}
+
+/* List Style */
+
+ul.style1 {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+ul.style1 li {
+	padding: 20px 0px 20px 0px;
+	border-top: 1px solid #2481AB;
+}
+
+ul.style1 a {
+	text-decoration: none;
+	color: #81AFC5;
+}
+
+ul.style1 a:hover {
+	text-decoration: underline;
+	color: #E0F5FF;
+}
+
+ul.style1 .first {
+	padding-top: 0px;
+	border-top: none;
+}
