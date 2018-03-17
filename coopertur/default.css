@@ -79,7 +79,7 @@ hr {
 }
 
 #header {
-	width: 1130px;
+	width: 1350px;
 	height: 20px;
 	background: url(images/img01.jpg) repeat;
 	margin:  -20px  auto;
@@ -91,8 +91,8 @@ hr {
 #logo {
 	float: left;
 	width: 0px;
-	margin: 0px;
-	padding: 0px 0px -200px 0px;
+	margin: 35px 110px auto;
+	padding: 0px 0px 0px 0px;
 	padding: 0px;
 }
 
@@ -101,7 +101,7 @@ hr {
 ul#nav {
 	font-family: 'Times New Roman';
 	font-weight: bold;
-	width: 700px;
+	width: 705px;
 	margin-left: auto;
 	text-align: center;
 	overflow: hidden;
@@ -192,9 +192,9 @@ ul#nav li a:hover, ul#nav li .current {
 
 #footer {
 	height: 5px;
-	margin: 90px auto;
-	width: 1125px;
-	padding: 0px 0px 15px 0px;
+	margin: 70px auto;
+	width: 1350px;
+	padding: 15px 0px 15px 0px;
 	font-family: 'Abel', sans-serif;
 	background: url(images/img01.jpg) repeat;
 }
@@ -243,7 +243,7 @@ ul#nav li a:hover, ul#nav li .current {
 #banner-wrapper {
 	overflow: hidden;
 	height: 365px;
-	width: 1300px;
+	width: 1200px;
 	margin: 110px;
 	background: url(images/carros.jpg) no-repeat left center;*/
 	
